@@ -8,7 +8,7 @@ Coming Soon
       ML & Cloud based games / Inference-driven Music compositions (Yes I have a full Portfolio for these experiments ✨)
       I make Physics Simulations & worked on multiples CAD projects
       and I write books as well.
-- 📫 You can contact me at EdenTidjani@outlook.com or at info@edenjani.com
+- 📫 You can contact me at EdenTidjani@outlook.com or at edentidjani.com
 
 <!---
 EdenJani/EdenJani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
